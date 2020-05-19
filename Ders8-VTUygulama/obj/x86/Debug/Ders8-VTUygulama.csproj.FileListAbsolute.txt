@@ -1,0 +1,28 @@
+c:\users\merveyıldız\documents\visual studio 2010\Projects\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8-VTUygulama.csprojResolveAssemblyReference.cache
+c:\users\merveyıldız\documents\visual studio 2010\Projects\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8_VTUygulama.Form1.resources
+c:\users\merveyıldız\documents\visual studio 2010\Projects\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8_VTUygulama.Properties.Resources.resources
+c:\users\merveyıldız\documents\visual studio 2010\Projects\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8-VTUygulama.csproj.GenerateResource.Cache
+c:\users\merveyıldız\documents\visual studio 2010\Projects\Ders8-VTUygulama\Ders8-VTUygulama\bin\Debug\Ders8-VTUygulama.exe.config
+c:\users\merveyıldız\documents\visual studio 2010\Projects\Ders8-VTUygulama\Ders8-VTUygulama\bin\Debug\Ders8-VTUygulama.exe
+c:\users\merveyıldız\documents\visual studio 2010\Projects\Ders8-VTUygulama\Ders8-VTUygulama\bin\Debug\Ders8-VTUygulama.pdb
+c:\users\merveyıldız\documents\visual studio 2010\Projects\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8-VTUygulama.exe
+c:\users\merveyıldız\documents\visual studio 2010\Projects\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8-VTUygulama.pdb
+C:\Users\Administrator\Desktop\8.5.2019\Ders8-VTUygulama\Ders8-VTUygulama\bin\Debug\Ders8-VTUygulama.exe.config
+C:\Users\Administrator\Desktop\8.5.2019\Ders8-VTUygulama\Ders8-VTUygulama\bin\Debug\Ders8-VTUygulama.exe
+C:\Users\Administrator\Desktop\8.5.2019\Ders8-VTUygulama\Ders8-VTUygulama\bin\Debug\Ders8-VTUygulama.pdb
+C:\Users\Administrator\Desktop\8.5.2019\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8-VTUygulama.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\8.5.2019\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8_VTUygulama.Form1.resources
+C:\Users\Administrator\Desktop\8.5.2019\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8_VTUygulama.Properties.Resources.resources
+C:\Users\Administrator\Desktop\8.5.2019\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8-VTUygulama.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\8.5.2019\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8-VTUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\8.5.2019\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8-VTUygulama.exe
+C:\Users\Administrator\Desktop\8.5.2019\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8-VTUygulama.pdb
+C:\Users\User\Desktop\İndirilenler\Ders8-VTUygulama\Ders8-VTUygulama\Ders8-VTUygulama\bin\Debug\Ders8-VTUygulama.exe.config
+C:\Users\User\Desktop\İndirilenler\Ders8-VTUygulama\Ders8-VTUygulama\Ders8-VTUygulama\bin\Debug\Ders8-VTUygulama.exe
+C:\Users\User\Desktop\İndirilenler\Ders8-VTUygulama\Ders8-VTUygulama\Ders8-VTUygulama\bin\Debug\Ders8-VTUygulama.pdb
+C:\Users\User\Desktop\İndirilenler\Ders8-VTUygulama\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8-VTUygulama.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\İndirilenler\Ders8-VTUygulama\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8_VTUygulama.Form1.resources
+C:\Users\User\Desktop\İndirilenler\Ders8-VTUygulama\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8_VTUygulama.Properties.Resources.resources
+C:\Users\User\Desktop\İndirilenler\Ders8-VTUygulama\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8-VTUygulama.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\İndirilenler\Ders8-VTUygulama\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8-VTUygulama.exe
+C:\Users\User\Desktop\İndirilenler\Ders8-VTUygulama\Ders8-VTUygulama\Ders8-VTUygulama\obj\x86\Debug\Ders8-VTUygulama.pdb
